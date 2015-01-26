@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<project name="CameraCalibration" default="calculateCameraCalibrationParams">
+	<!-- global project settings -->
+	<property name="basedir" value="${project::get-base-directory()}" />
+	<property name="imagesFolderPath" value=".\CalibrationFiles\MicrosoftCinema\Focus14\1280x720" />
+	<property name="imagesListFilePath" value="${imagesFolderPath}\Images.txt" />
+	<property name="calibrationParamsFilePath" value="${imagesFolderPath}\CalibrationParams.txt" />
+
+	<property name="boardWidth" value="9" />
+	<property name="boardHeight" value="7" />
+	<property name="squareSize" value="25" />
+
+
+	<fileset id="imageFiles" basedir="${imagesFolderPath}">
+		<include name="*.png" />
+	</fileset>
+
+	<target name="createImageListFile">
+		<if test="${file::exists(imagesListFilePath)}">
+			<delete file="${imagesListFilePath}" />
+		</if>
+
+		<foreach item="File" property="filePath">
+			<in>
+				<items refid="imageFiles" />
+			</in>
+			<do>
+				<echo file="${imagesListFilePath}" append="true">${filePath}
+</echo>
+			</do>
+		</foreach>
+	</target>
+
+	<target name="calculateCameraCalibrationParams" depends="createImageListFile">
+		<exec program="calibration.exe" commandline="-w ${boardWidth} -h ${boardHeight} -s ${squareSize} -o ${calibrationParamsFilePath} -a 1.0 ${imagesListFilePath}" />
+	</target>
+
+</project>

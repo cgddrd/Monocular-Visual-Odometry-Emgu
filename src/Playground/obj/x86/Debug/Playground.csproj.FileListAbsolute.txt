@@ -1,0 +1,13 @@
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\Playground.exe
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\Playground.pdb
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\Emgu.CV.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\Emgu.CV.UI.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\Emgu.Util.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\zlib.net.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\ZedGraph.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\Emgu.CV.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\Emgu.CV.UI.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\bin\Debug\Emgu.Util.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\obj\x86\Debug\Playground.csprojResolveAssemblyReference.cache
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\obj\x86\Debug\Playground.exe
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground\obj\x86\Debug\Playground.pdb

@@ -1,0 +1,16 @@
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\bin\Debug\Playground.UI.exe
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\bin\Debug\Playground.UI.pdb
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\bin\Debug\VisualOdometry.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\bin\Debug\Emgu.CV.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\bin\Debug\Emgu.Util.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\bin\Debug\zlib.net.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\bin\Debug\VisualOdometry.pdb
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\bin\Debug\Emgu.CV.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\bin\Debug\Emgu.Util.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\obj\x86\Debug\Playground.UI.csprojResolveAssemblyReference.cache
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\obj\x86\Debug\Playground.UI.Form1.resources
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\obj\x86\Debug\Playground.UI.MapForm.resources
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\obj\x86\Debug\Playground.UI.Properties.Resources.resources
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\obj\x86\Debug\Playground.UI.csproj.GenerateResource.Cache
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\obj\x86\Debug\Playground.UI.exe
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Playground.UI\obj\x86\Debug\Playground.UI.pdb

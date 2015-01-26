@@ -1,0 +1,14 @@
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\VisualOdometry.dll.config
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\VisualOdometry.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\VisualOdometry.pdb
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\Emgu.CV.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\Emgu.CV.UI.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\Emgu.Util.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\zlib.net.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\ZedGraph.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\Emgu.CV.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\Emgu.CV.UI.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\bin\Debug\Emgu.Util.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\obj\Debug\VisualOdometry.csprojResolveAssemblyReference.cache
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\obj\Debug\VisualOdometry.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\VisualOdometry\obj\Debug\VisualOdometry.pdb

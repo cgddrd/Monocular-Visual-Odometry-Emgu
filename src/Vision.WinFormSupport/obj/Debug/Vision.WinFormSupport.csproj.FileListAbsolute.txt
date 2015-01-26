@@ -1,0 +1,15 @@
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\Vision.WinFormSupport.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\Vision.WinFormSupport.pdb
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\Emgu.CV.UI.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\Emgu.Util.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\ZedGraph.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\Emgu.CV.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\zlib.net.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\Emgu.CV.UI.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\Emgu.Util.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\bin\Debug\Emgu.CV.xml
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\obj\Debug\Vision.WinFormSupport.csprojResolveAssemblyReference.cache
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\obj\Debug\Vision.WinForm.ImageBoxWithHeading.resources
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\obj\Debug\Vision.WinFormSupport.csproj.GenerateResource.Cache
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\obj\Debug\Vision.WinFormSupport.dll
+C:\Users\connorgoddard\Desktop\drh-visual-odometry-read-only\src\Vision.WinFormSupport\obj\Debug\Vision.WinFormSupport.pdb
